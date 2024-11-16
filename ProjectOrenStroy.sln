@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectOrenStroy.Server", "ProjectOrenStroy.Server\ProjectOrenStroy.Server.csproj", "{994BC90C-84FB-47F9-BA3D-DC3C54E4FBF8}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "projectorenstroy.client", "projectorenstroy.client\projectorenstroy.client.esproj", "{44FFF612-02D2-42AD-ADCD-1B652D51B26F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994BC90C-84FB-47F9-BA3D-DC3C54E4FBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994BC90C-84FB-47F9-BA3D-DC3C54E4FBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994BC90C-84FB-47F9-BA3D-DC3C54E4FBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994BC90C-84FB-47F9-BA3D-DC3C54E4FBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FFF612-02D2-42AD-ADCD-1B652D51B26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FFF612-02D2-42AD-ADCD-1B652D51B26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FFF612-02D2-42AD-ADCD-1B652D51B26F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{44FFF612-02D2-42AD-ADCD-1B652D51B26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FFF612-02D2-42AD-ADCD-1B652D51B26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FFF612-02D2-42AD-ADCD-1B652D51B26F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFF2666-A919-4038-A122-8B33A336112B}
+	EndGlobalSection
+EndGlobal
